@@ -1,0 +1,3 @@
+pytorch-lightning==1.1.8
+git+https://github.com/PytorchLightning/pytorch-lightning-bolts.git@1bec12200ff60b9b58277b40d9232933e1aa9dbe
+sklearn
